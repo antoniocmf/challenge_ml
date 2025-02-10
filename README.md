@@ -1,4 +1,4 @@
 # challenge_ml
 Challenge - Mercado Livre
 
-Challenge analisando o crescimento de usuários, assinantes de internet e suas causas, na Argentina.
+Slides: https://docs.google.com/presentation/d/1wsDQSGBALxJ70F53SUbtAsXrtJjzw4UyxNGasUHv-v0/edit?usp=sharing
