@@ -1,0 +1,46 @@
+Referências:
+
+Usuários de Internet: https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AR
+Usuários de Internet (Homens): https://data.worldbank.org/indicator/IT.NET.USER.MA.ZS?end=2023&locations=AR
+Usuários de Internet (Mulheres): https://data.worldbank.org/indicator/IT.NET.USER.FE.ZS?end=2023&locations=AR
+
+Assinantes de Banda Larga: https://data.worldbank.org/indicator/IT.NET.BBND?end=2023&locations=AR
+Assinantes de Telefonia Celular: https://data.worldbank.org/indicator/IT.CEL.SETS?locations=AR
+Assinantes de Telefonia Celular (por 100 hab.):https://data.worldbank.org/indicator/IT.CEL.SETS.P2?locations=AR
+
+Eletr. Rural: https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=AR
+Eletr. Urbana: https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=AR
+
+Pop Urbana % do total: https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AR
+Pop Rural % do total: https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=AR
+Pop Rural Cresc. Anual: https://data.worldbank.org/indicator/SP.RUR.TOTL.ZG?locations=AR
+
+PIB Per Capita (US$): https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=AR
+Gastos com Educação % do PIB: https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?locations=AR
+
+Pop. Economicamente Ativa: https://data.worldbank.org/indicator/SL.TLF.TOTL.IN?locations=AR
+Trabalhadores assalariados: https://data.worldbank.org/indicator/SL.EMP.WORK.ZS?locations=AR
+Empregos de meio período: https://data.worldbank.org/indicator/SL.TLF.PART.ZS?locations=AR
+Taxa de desemprego: https://data.worldbank.org/indicator/SL.UEM.TOTL.NE.ZS?locations=AR
+
+Gini Index: https://data.worldbank.org/indicator/SI.POV.GINI?locations=AR
+O que é o Coeficiente de Gini?: https://pt.wikipedia.org/wiki/Coeficiente_de_Gini
+
+Parcela da renda 20% mais ricos: https://data.worldbank.org/indicator/SI.DST.05TH.20?locations=AR
+Parcela da renda 20% mais pobres: https://data.worldbank.org/indicator/SI.DST.FRST.20?locations=AR
+
+
+Pessoas com conta em uma instituição financeira (Idade 15+): https://data.worldbank.org/indicator/FX.OWN.TOTL.ZS?locations=AR
+Pessoas com conta em uma instituição financeira (Idade 25+): https://data.worldbank.org/indicator/FX.OWN.TOTL.OL.ZS?locations=AR
+
+Pessoas com conta em uma instituição financeira (40% da população mais pobre): https://data.worldbank.org/indicator/FX.OWN.TOTL.40.ZS?locations=AR
+Pessoas com conta em uma instituição financeira (60% da população mais rica): https://data.worldbank.org/indicator/FX.OWN.TOTL.60.ZS?locations=AR
+
+Computadores, comunicações e outros serviços (% das exportações de serviços comerciais): https://data.worldbank.org/indicator/TX.VAL.OTHR.ZS.WT?locations=AR
+Computadores, comunicações e outros serviços (% das importações de serviços comerciais): https://data.worldbank.org/indicator/TM.VAL.OTHR.ZS.WT?locations=AR
+
+Crescimento populacional: https://data.worldbank.org/indicator/SP.POP.GROW?locations=AR
+Taxa de fertilidade: https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?locations=AR
+
+População entre 0-14 anos (%): https://data.worldbank.org/indicator/SP.POP.0014.TO.ZS?locations=AR
+População com 65 anos ou mais (%) %: https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS?locations=AR
